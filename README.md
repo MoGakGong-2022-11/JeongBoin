@@ -4,7 +4,7 @@
 | Date | 제목 | Tags |
 | --- | --- | --- |
 | 2022/10/31 | Week0 스터디 계획 세우기 및 레포 만들기 |  |
-| 2022/11/7 | Week1. 네트워크 정리(1.4) / 선형대수학 - 벡터 | CS, Mathematics |
+| 2022/11/7 | Week1. 네트워크 정리(1.4) / 선형대수학 - 벡터 | `CS`, `Mathematics` |
 | 2022/11/14 | Week2. 네트워크 정리(1.5, 1.6) / 선형대수학 - 선형결합/종속 | CS, Mathematics |
 | 2022/11/21 | Week3. 네트워크 정리(1.7, 1.8) / 선형대수학 - 부분공간/부분공간의 기저 | CS, Mathematics |
 | 2022/11/28 | Week4. 네트워크 정리(2.1, 2.2) / 선형대수학 - 벡터 내적 / 딥러닝 논문 읽기(https://www.nature.com/articles/nature14539) | CS, Mathematics, AI |
